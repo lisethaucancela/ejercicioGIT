@@ -1,0 +1,27 @@
+_______________________________________________________________________________________________
+_______________________________________________________________________________________________
+Ejercicio Terminal
+Los ejercicios siguientes tiene que realizarse mediante comandos. En caso de los usuarios
+Windows abrir la terminal de Ubuntu en el caso de los usuarios Mac o Linux.
+1. Abre tu consola
+2. Crea una carpeta llamada “Terminal”.
+3. Dentro del ejercicio terminal crea un archivo llamado index.js
+4. Escribe con VIM en el archivo index.js
+a. “Hola Mundo este es mi primer archivo escrito con VIM”
+5. Cierra el archivo y guarda los cambios.
+6. Copia la carpeta que creaste con todo y contenidos.
+a. La carpeta copiada se llamará Terminal2
+7. Dentro de la carpeta termina crea las siguientes carpetas que se utilizaran mas adelante.
+a. IMG
+b. SRC
+c. CSS
+8. Toma una captura de pantalla que muestre los permisos que tiene actualmente las
+carpetas IMG SRC y CSS.
+9. A la carpeta IMG otorga permisos de solo lectura al grupo y a otro. El usuario dueño de
+la carpeta tendrá permisos de lectura escritura y ejecución.
+a. Escribe que a que numero pertenece estos permisos.
+10. La carpeta SRC tanto usuario como grupo tendrán permisos de lectura, escritura y
+ejecución.
+a. Escribe que a que numero pertenece estos permisos.
+11. La carpeta CSS permanece como esta.
+12. Toma una captura de pantalla de como quedaron los permisos de las 3 carpetas.
