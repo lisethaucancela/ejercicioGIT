@@ -1,0 +1,26 @@
+
+<script>
+ let inicio=["unacadena",3,-10,9,1,10,500,1,10,true];
+ let aux=0;
+ 
+ for(let i=0; i< inicio.length-2; i++)
+ { 
+  for(let j=i+1; j< inicio.length-1; j++)
+  { 
+   if((typeof(inicio[i])=='number')&&
+      (typeof(inicio[j])=='number'))
+   {
+     if(inicio[i]<inicio[j])
+     {
+      aux = inicio[i]; 
+      inicio[i]=inicio[j]; 
+      inicio[j] = aux; 
+     }
+   }
+  }   
+ }
+ for(let i=0; i< inicio.length-1; i++)
+ { 
+   console.log(inicio[i]);
+ }
+</script>
